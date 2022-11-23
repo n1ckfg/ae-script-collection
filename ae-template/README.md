@@ -1,6 +1,4 @@
 ae-template panel
-Copyright (c) 2014 Nick Fox-Gieg & Victoria Nece
-http://kinecttopin.com
 
 To install, drop the .jsx file into your After Effects ScriptUI Panels directory.  
 
